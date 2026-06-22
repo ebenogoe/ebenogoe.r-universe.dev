@@ -4,6 +4,11 @@
     "url": "https://github.com/ebenogoe/FounderForge"
   }
   {
+  "package": "linkmapper",
+  "url": "https://github.com/ebenogoe/linkmapper",
+  "branch": "main"
+  }
+  {
     "package": "qrlabelr",
     "url": "https://github.com/awkena/qrlabelr"
   }
