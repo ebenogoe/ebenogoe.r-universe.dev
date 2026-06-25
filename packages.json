@@ -9,6 +9,11 @@
   "branch": "main"
   },
   {
+  "package": "ggwizard",
+  "url": "https://github.com/ebenogoe/ggwizard",
+  "branch": "main"
+  },
+  {
     "package": "qrlabelr",
     "url": "https://github.com/awkena/qrlabelr"
   }
